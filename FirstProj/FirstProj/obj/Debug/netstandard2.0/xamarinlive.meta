@@ -2,27 +2,27 @@
 <XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Files>
     <XamlFileMeta>
-      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\ActivityFeedPage.xaml</FilePath>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\ActivityFeedPage.xaml</FilePath>
       <Hash>48-5F-77-E5-6F-20-33-7C-EF-27-06-1F-54-D3-3D-F5</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\App.xaml</FilePath>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\App.xaml</FilePath>
       <Hash>C8-14-9C-FB-87-8D-E2-EC-60-4E-A9-28-C0-BB-C4-02</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\GreetPage.xaml</FilePath>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\GreetPage.xaml</FilePath>
       <Hash>38-7D-0D-01-37-2D-C5-09-40-98-EF-D7-83-25-56-3E</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\ImageSlider.xaml</FilePath>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\ImageSlider.xaml</FilePath>
       <Hash>81-C3-8A-A3-F8-70-18-A5-17-C3-13-6F-90-AE-70-C1</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\InstaPage.xaml</FilePath>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\InstaPage.xaml</FilePath>
       <Hash>E5-D7-DA-39-15-F9-93-60-E6-3C-3C-62-CC-1E-53-F6</Hash>
       <Properties>
         <string>Padding</string>
@@ -30,22 +30,27 @@
       </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\ListPage.xaml</FilePath>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\ListApi.xaml</FilePath>
+      <Hash>C3-77-9B-90-5B-FD-54-22-74-9E-6A-7A-99-31-55-3F</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\ListPage.xaml</FilePath>
       <Hash>AA-40-0A-CA-BB-69-2C-E4-A5-53-3C-98-76-DF-18-92</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\MainPage.xaml</FilePath>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\MainPage.xaml</FilePath>
       <Hash>4B-E5-3B-D4-C2-36-B1-19-EE-FE-80-0B-E2-C0-50-A1</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\MyProfilePage.xaml</FilePath>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\MyProfilePage.xaml</FilePath>
       <Hash>33-91-D5-AA-46-F3-53-9B-96-D7-EE-43-F3-AE-EB-CA</Hash>
       <Properties />
     </XamlFileMeta>
     <XamlFileMeta>
-      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\UserProfilePage.xaml</FilePath>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\UserProfilePage.xaml</FilePath>
       <Hash>E5-F6-11-79-A4-96-43-BE-DB-5A-B8-E2-6E-DB-58-18</Hash>
       <Properties>
         <string>Title</string>

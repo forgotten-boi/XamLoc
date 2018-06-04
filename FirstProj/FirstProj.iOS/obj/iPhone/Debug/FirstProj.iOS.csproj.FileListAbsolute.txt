@@ -91,3 +91,6 @@ D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.iOS\obj\iPhone\Debug\FirstProj.iO
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.iOS\obj\iPhone\Debug\FirstProj.iOS.csproj.CopyComplete
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.iOS\obj\iPhone\Debug\FirstProj.iOS.exe
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.iOS\obj\iPhone\Debug\FirstProj.iOS.pdb
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.iOS\bin\iPhone\Debug\System.Net.Http.Extensions.dll
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.iOS\bin\iPhone\Debug\System.Net.Http.Primitives.dll
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll

@@ -42,6 +42,9 @@
     <EmbeddedResource Update="InstaPageMaster.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="ListApi.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="ListPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -58,5 +61,8 @@
   </ItemGroup>
   <ItemGroup>
     <Page Include="ImageSlider.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pages\" />
   </ItemGroup>
 </Project>

@@ -18,3 +18,4 @@ D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\obj\Debug\netstandard2.0\FirstPro
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\obj\Debug\netstandard2.0\FirstProj.dll
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\obj\Debug\netstandard2.0\FirstProj.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\obj\Debug\netstandard2.0\FirstProj.csprojAssemblyReference.cache
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\obj\Debug\netstandard2.0\FirstProj.ListApi.xaml.g.cs

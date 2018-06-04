@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstProj.ListApi">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Add" Clicked="OnAdd" />
+                <Button Text="Update" Clicked="OnUpdate" HorizontalOptions="CenterAndExpand" />
+                <Button Text="Delete" Clicked="OnDelete" />
+            </StackLayout>
+            <ListView x:Name="listView" 
+               IsGroupingEnabled="True"
+               GroupDisplayBinding="{Binding Title}"
+               IsPullToRefreshEnabled="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Title}" Detail="{Binding Body}">
+                            <!--<TextCell.ContextActions>
+                                <MenuItem 
+								Text="Delete" 
+								IsDestructive="true" 
+								Clicked="OnDeleteClicked" 
+								CommandParameter="{Binding .}" />
+                            </TextCell.ContextActions>-->
+                        </TextCell>
+                       
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -19,9 +19,6 @@ namespace FirstProj
         private SearchService _searchService;
         private List<SearchGroup> _searchGroups;
 
-        private const string Url = "https://jsonplaceholder.typicode.com/posts";
-        private HttpClient _httpClient = new HttpClient(); 
-
         public ObservableCollection<string> Items { get; set; }
 
         public ListPage()
