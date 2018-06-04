@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local ="clr-namespace:FirstProj"
+             x:Class="FirstProj.ImageSlider">
+    
+    <!--<ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                    Android="0, 0, 0, 0"
+                    WinPhone="0, 0, 0, 0" 
+                    iOS="0, 20, 0, 0">
+        </OnPlatform>
+    </ContentPage.Padding>-->
+
+    <StackLayout>
+    <AbsoluteLayout BackgroundColor="SkyBlue">
+        <Image x:Name="image" Aspect="AspectFill"
+               AbsoluteLayout.LayoutBounds="0,0,1,1" 
+               AbsoluteLayout.LayoutFlags="All"></Image> <!--Source="{local:EmbeddedImage ResourceId=FirstProj.Image.background.jpg}"-->
+        <ActivityIndicator Color="White" IsRunning="{Binding Source={x:Reference image},Path=IsLoading}" 
+                           AbsoluteLayout.LayoutBounds="0.5, 0.05, 100, 100" 
+                           AbsoluteLayout.LayoutFlags="PositionProportional"></ActivityIndicator>
+        
+        <!--<Button x:Name="Prev" Clicked="Previous_OnClicked" 
+                AbsoluteLayout.LayoutBounds="0.05, 0.05, 100, 100" 
+                AbsoluteLayout.LayoutFlags="PositionProportional">
+            <Button.Image>
+                <OnPlatform x:TypeArguments="FileImageSource" Android="left" iOS="left.png"></OnPlatform>
+            </Button.Image>
+            
+        </Button>-->
+        
+        <Button Image="left" x:Name="Previous" Clicked="Previous_OnClicked"
+                AbsoluteLayout.LayoutBounds="0.05, 0.05, 50, 50" AbsoluteLayout.LayoutFlags="PositionProportional" ></Button>
+        <Button Image="right.png" x:Name="Next" Clicked="Next_OnClicked"
+                AbsoluteLayout.LayoutBounds="0.95, 0.05, 50, 50" AbsoluteLayout.LayoutFlags="PositionProportional" ></Button>
+    </AbsoluteLayout>
+        <StackLayout VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand">
+            <Button x:Name="NextPage" Text="ListPage" Clicked="NextPage_Clicked"></Button>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

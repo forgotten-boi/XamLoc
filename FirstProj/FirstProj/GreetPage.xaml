@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstProj.GreetPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="heart" Activated="InstaPage_Clicked" Order="Primary"></ToolbarItem>
+        <ToolbarItem Icon="user" Text="ListPage" Activated="ListPage_Clicked" Order="Secondary"></ToolbarItem>
+        <ToolbarItem Icon="left" Activated="ImageSlider_Clicked" Order="Secondary"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+        <!--<ContentPage.Padding>
+            <OnPlatform x:TypeArguments="Thickness"
+                        Android="0, 0, 0, 0"
+                        WinPhone="0, 0, 0, 0" 
+                        iOS="0, 20, 0, 0">
+            </OnPlatform>
+        </ContentPage.Padding>-->
+        <StackLayout BindingContext="{x:Reference Slider}" >
+            <Button x:Name="Button" Clicked="Button_OnClicked" Text="Next"></Button>
+            
+            <Label x:Name="Label" Text="{Binding Value, 
+                                    StringFormat='Value is {0:N0}'}"
+                                   Opacity="{Binding Value}"
+                   ></Label>
+          <Slider x:Name="Slider" Maximum="50" Minimum="16" ></Slider>
+            
+            <Label 
+                x:Name="currentQuote" 
+                FontSize="{Binding 
+				Source={x:Reference Slider}, 
+				Path=Value}" />
+        <Button x:Name="ImageSlider" Text="ImageSlider" Clicked="ImageSlider_Clicked" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"></Button>
+        <!--<Button x:Name="ListPage" Text="ListPage" Clicked="ListPage_Clicked" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"></Button>-->
+        <Button x:Name="MainPage" Text="MainPage" Clicked="MainPage_Clicked" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"></Button>
+        <Button x:Name="InstaPage" Text="InstaPage" Clicked="InstaPage_Clicked" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"></Button>
+            
+        </StackLayout>
+        
+</ContentPage>

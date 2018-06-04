@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Javra\\Xamarin\\FirstProj\\FirstProj\\FirstProj\\FirstProj.csproj",
+    "projectName": "FirstProj",
+    "projectPath": "D:\\Javra\\Xamarin\\FirstProj\\FirstProj\\FirstProj\\FirstProj.csproj",
+    "outputPath": "D:\\Javra\\Xamarin\\FirstProj\\FirstProj\\FirstProj\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "LiveXAML": {
+          "target": "Package",
+          "version": "[2.1.22, )"
+        },
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.1, )",
+          "autoReferenced": true
+        },
+        "Xam.Plugins.Forms.ImageCircle": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Xamarin.Forms": {
+          "target": "Package",
+          "version": "[2.5.0.280555, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
