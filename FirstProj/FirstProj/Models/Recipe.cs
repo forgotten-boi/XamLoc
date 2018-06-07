@@ -25,7 +25,7 @@ namespace FirstProj
                 //{
                 _name = value;
                 //}
-                OnPropertyChanged();
+                OnPropertyChanged("Name");
             }
         }
 

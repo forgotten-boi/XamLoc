@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2876fa17-4798-4151-8b61-3771581b870d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MainActivity.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj.Android/MainActivity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="21" column="52" selection-start-line="20" selection-start-column="11" selection-end-line="21" selection-end-column="52" />
+              <folding>
+                <marker date="1527767902172" expanded="false" signature="6:167" ph="..." />
+                <marker date="1527767902172" expanded="true" signature="194:908" ph="{...}" />
+                <marker date="1527767902172" expanded="true" signature="477:906" ph="{...}" />
+                <marker date="1527767902172" expanded="true" signature="539:900" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.xaml.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/App.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <marker date="1527766761683" expanded="false" signature="6:107" ph="..." />
+                <marker date="1527766761683" expanded="true" signature="608:672" ph="{...}" />
+                <marker date="1527766761683" expanded="true" signature="608:917" ph="{...}" />
+                <marker date="1527766761683" expanded="true" signature="608:919" ph="{...}" />
+                <marker date="1527766761683" expanded="true" signature="710:752" ph="{...}" />
+                <marker date="1527766761683" expanded="true" signature="790:832" ph="{...}" />
+                <marker date="1527766761683" expanded="true" signature="871:914" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstaPage.xaml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/InstaPage.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <marker date="1527760555204" expanded="true" signature="40:446" ph="&lt;&lt;local:ActivityFeedPage Title=&quot;Activities&quot; Icon=&quot;heart.png&quot; Padding=&quot;20&quot; /&gt; &lt;local:MyProfilePage Title=&quot;Profile&quot; Icon=&quot;user.png&quot;  Padding=&quot;20&quot; /&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj.Android/MainActivity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj.Android/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj/InstaPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj/MainPage.xaml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj/MainPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FirstProj/FirstProj.iOS/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj.Android/Properties/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml" />
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj/ImageSLider.xaml" />
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj/ImageSLider.xaml.cs" />
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.cs" />
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.xaml.cs" />
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.xaml" />
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj.Android/MainActivity.cs" />
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj/App.xaml.cs" />
+        <option value="$PROJECT_DIR$/FirstProj/FirstProj/InstaPage.xaml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1607" />
+    <option name="y" value="218" />
+    <option name="width" value="1613" />
+    <option name="height" value="595" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FirstProj (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FirstProj (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FirstProj" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FirstProj (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FirstProj" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="App.xaml" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FirstProj (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FirstProj.Android (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Xaml" />
+    <property name="do_not_show_solution_notification" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FirstProj/FirstProj.Android/Resources/drawable-xxhdpi/right" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Xamarin.Android.Android Default">
+    <configuration name="FirstProj.iOS" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FirstProj/FirstProj.iOS/bin/iPhone/Debug/FirstProj.iOS.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FirstProj/FirstProj.iOS/bin/iPhone/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FirstProj/FirstProj.iOS/FirstProj.iOS.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="XamarinIOS" />
+      <option name="PROJECT_TFM" value="Xamarin.iOS,Version=v1.0" />
+    </configuration>
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FirstProj/FirstProj.Android/FirstProj.Android.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+      <option name="DEFAULT_EMULATOR_TO_RUN" value="" />
+      <option name="DEFAULT_DEVICE_TO_RUN" value="" />
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FirstProj/FirstProj.Android/FirstProj.Android.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEFAULT_IPHONE_DEVICE" value="" />
+      <option name="DEFAULT_IPHONE_SIMULATOR" value="" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.FirstProj.iOS" />
+      <item itemvalue="Xamarin.Android.Android Default" />
+      <item itemvalue="Xamarin.iOS.iOS Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2876fa17-4798-4151-8b61-3771581b870d" name="Default" comment="" />
+      <created>1525348729652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525348729652</updated>
+      <workItem from="1525348735027" duration="740000" />
+      <workItem from="1525407603215" duration="1535000" />
+      <workItem from="1525416483772" duration="3122000" />
+      <workItem from="1525853614828" duration="4545000" />
+      <workItem from="1526272149503" duration="640000" />
+      <workItem from="1526378031602" duration="1512000" />
+      <workItem from="1526547551945" duration="645000" />
+      <workItem from="1527066033520" duration="2511000" />
+      <workItem from="1527153152707" duration="3003000" />
+      <workItem from="1527584680544" duration="309000" />
+      <workItem from="1527585360167" duration="2455000" />
+      <workItem from="1527663495406" duration="530000" />
+      <workItem from="1527740374105" duration="3601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25148000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1608" y="-61" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32871014" />
+      <window_info anchor="right" id="Errors In Solution" order="3" visible="true" weight="0.1818766" />
+      <window_info anchor="bottom" id="XAML Preview" order="14" weight="0.32871014" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="8" weight="0.32871014" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33841887" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32871014" />
+      <window_info anchor="bottom" id="NuGet" order="11" weight="0.32871014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17159383" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32732317" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895698" />
+      <window_info anchor="bottom" id="Stacktrace" order="15" visible="true" weight="0.32871014" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Stacktrace" order="15" visible="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="NuGet" order="11" weight="0.32871014" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16773778" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33841887" />
+      <window_info anchor="bottom" id="XAML Preview" order="14" weight="0.32871014" />
+      <window_info anchor="bottom" id="Unit Tests" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.1818766" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895698" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Build" order="13" visible="true" weight="0.3286908" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs</url>
+          <line>27</line>
+          <properties documentPath="$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs" initialLine="27">
+            <startOffsets>
+              <startOffset value="614" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="615" />
+            </endOffsets>
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1527766761683" expanded="false" signature="6:107" ph="..." />
+            <marker date="1527766761683" expanded="true" signature="608:672" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="608:917" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="608:919" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="710:752" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="790:832" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="871:914" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/MainPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525346215289" expanded="true" signature="40:519" ph="&lt;&lt;Button HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; Text=&quot;Click Me&quot; Clicked=&quot;Handle_Clicked&quot;&gt;&lt;/Button&gt;.../&gt;" />
+            <marker date="1525346215289" expanded="true" signature="263:388" ph="&lt;!--...--&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/MainPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525346278371" expanded="false" signature="6:136" ph="..." />
+            <marker date="1525346278371" expanded="true" signature="157:427" ph="{...}" />
+            <marker date="1525346278371" expanded="true" signature="204:425" ph="{...}" />
+            <marker date="1525346278371" expanded="true" signature="227:261" ph="{...}" />
+            <marker date="1525346278371" expanded="true" signature="324:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <marker date="1527672391753" expanded="true" signature="7:35" ph="..." />
+            <marker date="1527672391753" expanded="true" signature="618:1250" ph="{...}" />
+            <marker date="1527672391753" expanded="true" signature="618:1252" ph="{...}" />
+            <marker date="1527672391753" expanded="true" signature="687:840" ph="{...}" />
+            <marker date="1527672391753" expanded="true" signature="905:1058" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <marker date="1527674906042" expanded="true" signature="40:2183" ph="&lt;&lt;StackLayout&gt;&#10;    &lt;AbsoluteLayout BackgroundColor=&quot;SkyBlue&quot;&gt;&#10;        &lt;Image x:Name=&quot;image&quot; Aspect=&quot;AspectFill&quot;&#10;               AbsoluteLayout.LayoutBounds=&quot;0,0,1,1&quot; &#10;               AbsoluteLayout.LayoutFlags=&quot;All&quot;&gt;&lt;/Image&gt; &lt;!--Source=&quot;{local:EmbeddedImage ResourceId=FirstProj.Image.background.jpg}&quot;--&gt;&#10;        &lt;ActivityIndicator Color=&quot;White&quot; IsRunning=&quot;{Binding Source={x:Reference image},Path=IsLoading}&quot; &#10;                           AbsoluteLayout.LayoutBounds=&quot;0.5, 0.05, 100, 100&quot; &#10;                           AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&lt;/ActivityIndicator&gt;&#10;        &#10;        &lt;!--&lt;Button x:Name=&quot;Prev&quot; Clicked=&quot;Previous_OnClicked&quot; &#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 100, 100&quot; &#10;                AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&#10;            &lt;Button.Image&gt;&#10;                &lt;OnPlatform x:TypeArguments=&quot;FileImageSource&quot; Android=&quot;left&quot; iOS=&quot;left.png&quot;&gt;&lt;/OnPlatform&gt;&#10;            &lt;/Button.Image&gt;&#10;            &#10;        &lt;/Button&gt;--&gt;&#10;        &#10;        &lt;Button Image=&quot;left&quot; x:Name=&quot;Previous&quot; Clicked=&quot;Previous_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;        &lt;Button Image=&quot;right.png&quot; x:Name=&quot;Next&quot; Clicked=&quot;Next_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.95, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;    &lt;/AbsoluteLayout&gt;&#10;        &lt;StackLayout VerticalOptions=&quot;EndAndExpand&quot; HorizontalOptions=&quot;CenterAndExpand&quot;&gt;&#10;            &lt;Button x:Name=&quot;NextPage&quot; Text=&quot;ListPage&quot; Clicked=&quot;NextPage_Clicked&quot;&gt;&lt;/Button&gt;&#10;        &lt;/StackLayout&gt;&#10;    &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="274:522" ph="&lt;!--...--&gt;" />
+            <marker date="1527674906042" expanded="true" signature="528:2168" ph="&lt;&lt;AbsoluteLayout BackgroundColor=&quot;SkyBlue&quot;&gt;&#10;        &lt;Image x:Name=&quot;image&quot; Aspect=&quot;AspectFill&quot;&#10;               AbsoluteLayout.LayoutBounds=&quot;0,0,1,1&quot; &#10;               AbsoluteLayout.LayoutFlags=&quot;All&quot;&gt;&lt;/Image&gt; &lt;!--Source=&quot;{local:EmbeddedImage ResourceId=FirstProj.Image.background.jpg}&quot;--&gt;&#10;        &lt;ActivityIndicator Color=&quot;White&quot; IsRunning=&quot;{Binding Source={x:Reference image},Path=IsLoading}&quot; &#10;                           AbsoluteLayout.LayoutBounds=&quot;0.5, 0.05, 100, 100&quot; &#10;                           AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&lt;/ActivityIndicator&gt;&#10;        &#10;        &lt;!--&lt;Button x:Name=&quot;Prev&quot; Clicked=&quot;Previous_OnClicked&quot; &#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 100, 100&quot; &#10;                AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&#10;            &lt;Button.Image&gt;&#10;                &lt;OnPlatform x:TypeArguments=&quot;FileImageSource&quot; Android=&quot;left&quot; iOS=&quot;left.png&quot;&gt;&lt;/OnPlatform&gt;&#10;            &lt;/Button.Image&gt;&#10;            &#10;        &lt;/Button&gt;--&gt;&#10;        &#10;        &lt;Button Image=&quot;left&quot; x:Name=&quot;Previous&quot; Clicked=&quot;Previous_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;        &lt;Button Image=&quot;right.png&quot; x:Name=&quot;Next&quot; Clicked=&quot;Next_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.95, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;    &lt;/AbsoluteLayout&gt; &lt;StackLayout VerticalOptions=&quot;EndAndExpand&quot; HorizontalOptions=&quot;CenterAndExpand&quot;&gt;&#10;            &lt;Button x:Name=&quot;NextPage&quot; Text=&quot;ListPage&quot; Clicked=&quot;NextPage_Clicked&quot;&gt;&lt;/Button&gt;&#10;        &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="546:1946" ph="&lt;&lt;Image x:Name=&quot;image&quot; Aspect=&quot;AspectFill&quot;&#10;               AbsoluteLayout.LayoutBounds=&quot;0,0,1,1&quot; &#10;               AbsoluteLayout.LayoutFlags=&quot;All&quot;&gt;&lt;/Image&gt; &lt;ActivityIndicator Color=&quot;White&quot; IsRunning=&quot;{Binding Source={x:Reference image},Path=IsLoading}&quot; &#10;                           AbsoluteLayout.LayoutBounds=&quot;0.5, 0.05, 100, 100&quot; &#10;                           AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&lt;/ActivityIndicator&gt; &lt;Button Image=&quot;left&quot; x:Name=&quot;Previous&quot; Clicked=&quot;Previous_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt; &lt;Button Image=&quot;right.png&quot; x:Name=&quot;Next&quot; Clicked=&quot;Next_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.95, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="597:749" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="838:1111" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1129:1514" ph="&lt;!--...--&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1532:1725" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1734:1924" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1955:2149" ph="&lt;&lt;Button x:Name=&quot;NextPage&quot; Text=&quot;ListPage&quot; Clicked=&quot;NextPage_Clicked&quot;&gt;&lt;/Button&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/MainPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525346215289" expanded="true" signature="40:519" ph="&lt;&lt;Button HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; Text=&quot;Click Me&quot; Clicked=&quot;Handle_Clicked&quot;&gt;&lt;/Button&gt;.../&gt;" />
+            <marker date="1525346215289" expanded="true" signature="263:388" ph="&lt;!--...--&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/MainPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525346278371" expanded="false" signature="6:136" ph="..." />
+            <marker date="1525346278371" expanded="true" signature="157:427" ph="{...}" />
+            <marker date="1525346278371" expanded="true" signature="204:425" ph="{...}" />
+            <marker date="1525346278371" expanded="true" signature="227:261" ph="{...}" />
+            <marker date="1525346278371" expanded="true" signature="324:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <marker date="1527674906042" expanded="true" signature="40:2183" ph="&lt;&lt;StackLayout&gt;&#10;    &lt;AbsoluteLayout BackgroundColor=&quot;SkyBlue&quot;&gt;&#10;        &lt;Image x:Name=&quot;image&quot; Aspect=&quot;AspectFill&quot;&#10;               AbsoluteLayout.LayoutBounds=&quot;0,0,1,1&quot; &#10;               AbsoluteLayout.LayoutFlags=&quot;All&quot;&gt;&lt;/Image&gt; &lt;!--Source=&quot;{local:EmbeddedImage ResourceId=FirstProj.Image.background.jpg}&quot;--&gt;&#10;        &lt;ActivityIndicator Color=&quot;White&quot; IsRunning=&quot;{Binding Source={x:Reference image},Path=IsLoading}&quot; &#10;                           AbsoluteLayout.LayoutBounds=&quot;0.5, 0.05, 100, 100&quot; &#10;                           AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&lt;/ActivityIndicator&gt;&#10;        &#10;        &lt;!--&lt;Button x:Name=&quot;Prev&quot; Clicked=&quot;Previous_OnClicked&quot; &#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 100, 100&quot; &#10;                AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&#10;            &lt;Button.Image&gt;&#10;                &lt;OnPlatform x:TypeArguments=&quot;FileImageSource&quot; Android=&quot;left&quot; iOS=&quot;left.png&quot;&gt;&lt;/OnPlatform&gt;&#10;            &lt;/Button.Image&gt;&#10;            &#10;        &lt;/Button&gt;--&gt;&#10;        &#10;        &lt;Button Image=&quot;left&quot; x:Name=&quot;Previous&quot; Clicked=&quot;Previous_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;        &lt;Button Image=&quot;right.png&quot; x:Name=&quot;Next&quot; Clicked=&quot;Next_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.95, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;    &lt;/AbsoluteLayout&gt;&#10;        &lt;StackLayout VerticalOptions=&quot;EndAndExpand&quot; HorizontalOptions=&quot;CenterAndExpand&quot;&gt;&#10;            &lt;Button x:Name=&quot;NextPage&quot; Text=&quot;ListPage&quot; Clicked=&quot;NextPage_Clicked&quot;&gt;&lt;/Button&gt;&#10;        &lt;/StackLayout&gt;&#10;    &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="274:522" ph="&lt;!--...--&gt;" />
+            <marker date="1527674906042" expanded="true" signature="528:2168" ph="&lt;&lt;AbsoluteLayout BackgroundColor=&quot;SkyBlue&quot;&gt;&#10;        &lt;Image x:Name=&quot;image&quot; Aspect=&quot;AspectFill&quot;&#10;               AbsoluteLayout.LayoutBounds=&quot;0,0,1,1&quot; &#10;               AbsoluteLayout.LayoutFlags=&quot;All&quot;&gt;&lt;/Image&gt; &lt;!--Source=&quot;{local:EmbeddedImage ResourceId=FirstProj.Image.background.jpg}&quot;--&gt;&#10;        &lt;ActivityIndicator Color=&quot;White&quot; IsRunning=&quot;{Binding Source={x:Reference image},Path=IsLoading}&quot; &#10;                           AbsoluteLayout.LayoutBounds=&quot;0.5, 0.05, 100, 100&quot; &#10;                           AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&lt;/ActivityIndicator&gt;&#10;        &#10;        &lt;!--&lt;Button x:Name=&quot;Prev&quot; Clicked=&quot;Previous_OnClicked&quot; &#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 100, 100&quot; &#10;                AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&#10;            &lt;Button.Image&gt;&#10;                &lt;OnPlatform x:TypeArguments=&quot;FileImageSource&quot; Android=&quot;left&quot; iOS=&quot;left.png&quot;&gt;&lt;/OnPlatform&gt;&#10;            &lt;/Button.Image&gt;&#10;            &#10;        &lt;/Button&gt;--&gt;&#10;        &#10;        &lt;Button Image=&quot;left&quot; x:Name=&quot;Previous&quot; Clicked=&quot;Previous_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;        &lt;Button Image=&quot;right.png&quot; x:Name=&quot;Next&quot; Clicked=&quot;Next_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.95, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;    &lt;/AbsoluteLayout&gt; &lt;StackLayout VerticalOptions=&quot;EndAndExpand&quot; HorizontalOptions=&quot;CenterAndExpand&quot;&gt;&#10;            &lt;Button x:Name=&quot;NextPage&quot; Text=&quot;ListPage&quot; Clicked=&quot;NextPage_Clicked&quot;&gt;&lt;/Button&gt;&#10;        &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="546:1946" ph="&lt;&lt;Image x:Name=&quot;image&quot; Aspect=&quot;AspectFill&quot;&#10;               AbsoluteLayout.LayoutBounds=&quot;0,0,1,1&quot; &#10;               AbsoluteLayout.LayoutFlags=&quot;All&quot;&gt;&lt;/Image&gt; &lt;ActivityIndicator Color=&quot;White&quot; IsRunning=&quot;{Binding Source={x:Reference image},Path=IsLoading}&quot; &#10;                           AbsoluteLayout.LayoutBounds=&quot;0.5, 0.05, 100, 100&quot; &#10;                           AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&lt;/ActivityIndicator&gt; &lt;Button Image=&quot;left&quot; x:Name=&quot;Previous&quot; Clicked=&quot;Previous_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt; &lt;Button Image=&quot;right.png&quot; x:Name=&quot;Next&quot; Clicked=&quot;Next_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.95, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="597:749" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="838:1111" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1129:1514" ph="&lt;!--...--&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1532:1725" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1734:1924" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1955:2149" ph="&lt;&lt;Button x:Name=&quot;NextPage&quot; Text=&quot;ListPage&quot; Clicked=&quot;NextPage_Clicked&quot;&gt;&lt;/Button&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <marker date="1527672391753" expanded="true" signature="7:35" ph="..." />
+            <marker date="1527672391753" expanded="true" signature="618:1250" ph="{...}" />
+            <marker date="1527672391753" expanded="true" signature="618:1252" ph="{...}" />
+            <marker date="1527672391753" expanded="true" signature="687:840" ph="{...}" />
+            <marker date="1527672391753" expanded="true" signature="905:1058" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <marker date="1527766761683" expanded="false" signature="6:107" ph="..." />
+            <marker date="1527766761683" expanded="true" signature="608:672" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="608:917" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="608:919" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="710:752" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="790:832" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="871:914" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <marker date="1527681653544" expanded="true" signature="6:163" ph="..." />
+            <marker date="1527681653544" expanded="true" signature="283:1370" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="436:540" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="611:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <marker date="1527681653544" expanded="true" signature="6:163" ph="..." />
+            <marker date="1527681653544" expanded="true" signature="283:1370" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="436:540" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="611:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <marker date="1527681653544" expanded="true" signature="6:163" ph="..." />
+            <marker date="1527681653544" expanded="true" signature="283:1370" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="436:540" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="611:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <marker date="1527681653544" expanded="true" signature="6:163" ph="..." />
+            <marker date="1527681653544" expanded="true" signature="283:1370" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="436:540" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="611:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <marker date="1527681653544" expanded="true" signature="6:163" ph="..." />
+            <marker date="1527681653544" expanded="true" signature="283:1370" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="436:540" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="611:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <marker date="1527681653544" expanded="true" signature="6:163" ph="..." />
+            <marker date="1527681653544" expanded="true" signature="283:1370" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="436:540" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="611:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <marker date="1527681653544" expanded="true" signature="6:163" ph="..." />
+            <marker date="1527681653544" expanded="true" signature="283:1370" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="436:540" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="611:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1527681653544" expanded="true" signature="6:163" ph="..." />
+            <marker date="1527681653544" expanded="true" signature="283:1370" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="436:540" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="611:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1527681653544" expanded="true" signature="6:163" ph="..." />
+            <marker date="1527681653544" expanded="true" signature="283:1370" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="436:540" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="611:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj.Android/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="36" column="59" lean-forward="true" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.cs" />
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <marker date="1527681653544" expanded="true" signature="6:163" ph="..." />
+            <marker date="1527681653544" expanded="true" signature="283:1370" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="436:540" ph="{...}" />
+            <marker date="1527681653544" expanded="true" signature="611:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj.Android/Resources/AboutResources.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj.iOS/Resources/right@3x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj.iOS/Resources/right@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj.iOS/Resources/right.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj.iOS/Resources/left@3x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj.iOS/Resources/left@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj.iOS/Resources/left.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/GreetPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <marker date="1527745167161" expanded="true" signature="2108:2109" ph="&lt;.../&gt;" />
+            <marker date="1527745167161" expanded="true" signature="2108:2145" ph="&lt;&lt;Button x:Name=&quot;Button&quot; Clicked=&quot;Button_OnClicked&quot; Text=&quot;Next&quot;&gt;&lt;/Button&gt; &lt;Label x:Name=&quot;Label&quot; Text=&quot;{Binding Value, &#10;                                    StringFormat='Value is {0:N0}'}&quot;&#10;                                   Opacity=&quot;{Binding Value}&quot;&#10;                   &gt;&lt;/Label&gt; &lt;Slider x:Name=&quot;Slider&quot; Maximum=&quot;50&quot; Minimum=&quot;16&quot; &gt;&lt;/Slider&gt; &lt;Label &#10;                x:Name=&quot;currentQuote&quot; &#10;                FontSize=&quot;{Binding &#10;&#9;&#9;&#9;&#9;Source={x:Reference Slider}, &#10;&#9;&#9;&#9;&#9;Path=Value}&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/MainPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525346278371" expanded="false" signature="6:136" ph="..." />
+            <marker date="1525346278371" expanded="true" signature="157:427" ph="{...}" />
+            <marker date="1525346278371" expanded="true" signature="204:425" ph="{...}" />
+            <marker date="1525346278371" expanded="true" signature="227:261" ph="{...}" />
+            <marker date="1525346278371" expanded="true" signature="324:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <marker date="1527672391753" expanded="true" signature="7:35" ph="..." />
+            <marker date="1527672391753" expanded="true" signature="618:1250" ph="{...}" />
+            <marker date="1527672391753" expanded="true" signature="618:1252" ph="{...}" />
+            <marker date="1527672391753" expanded="true" signature="687:840" ph="{...}" />
+            <marker date="1527672391753" expanded="true" signature="905:1058" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/ImageSlider.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <marker date="1527674906042" expanded="true" signature="40:2183" ph="&lt;&lt;StackLayout&gt;&#10;    &lt;AbsoluteLayout BackgroundColor=&quot;SkyBlue&quot;&gt;&#10;        &lt;Image x:Name=&quot;image&quot; Aspect=&quot;AspectFill&quot;&#10;               AbsoluteLayout.LayoutBounds=&quot;0,0,1,1&quot; &#10;               AbsoluteLayout.LayoutFlags=&quot;All&quot;&gt;&lt;/Image&gt; &lt;!--Source=&quot;{local:EmbeddedImage ResourceId=FirstProj.Image.background.jpg}&quot;--&gt;&#10;        &lt;ActivityIndicator Color=&quot;White&quot; IsRunning=&quot;{Binding Source={x:Reference image},Path=IsLoading}&quot; &#10;                           AbsoluteLayout.LayoutBounds=&quot;0.5, 0.05, 100, 100&quot; &#10;                           AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&lt;/ActivityIndicator&gt;&#10;        &#10;        &lt;!--&lt;Button x:Name=&quot;Prev&quot; Clicked=&quot;Previous_OnClicked&quot; &#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 100, 100&quot; &#10;                AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&#10;            &lt;Button.Image&gt;&#10;                &lt;OnPlatform x:TypeArguments=&quot;FileImageSource&quot; Android=&quot;left&quot; iOS=&quot;left.png&quot;&gt;&lt;/OnPlatform&gt;&#10;            &lt;/Button.Image&gt;&#10;            &#10;        &lt;/Button&gt;--&gt;&#10;        &#10;        &lt;Button Image=&quot;left&quot; x:Name=&quot;Previous&quot; Clicked=&quot;Previous_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;        &lt;Button Image=&quot;right.png&quot; x:Name=&quot;Next&quot; Clicked=&quot;Next_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.95, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;    &lt;/AbsoluteLayout&gt;&#10;        &lt;StackLayout VerticalOptions=&quot;EndAndExpand&quot; HorizontalOptions=&quot;CenterAndExpand&quot;&gt;&#10;            &lt;Button x:Name=&quot;NextPage&quot; Text=&quot;ListPage&quot; Clicked=&quot;NextPage_Clicked&quot;&gt;&lt;/Button&gt;&#10;        &lt;/StackLayout&gt;&#10;    &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="274:522" ph="&lt;!--...--&gt;" />
+            <marker date="1527674906042" expanded="true" signature="528:2168" ph="&lt;&lt;AbsoluteLayout BackgroundColor=&quot;SkyBlue&quot;&gt;&#10;        &lt;Image x:Name=&quot;image&quot; Aspect=&quot;AspectFill&quot;&#10;               AbsoluteLayout.LayoutBounds=&quot;0,0,1,1&quot; &#10;               AbsoluteLayout.LayoutFlags=&quot;All&quot;&gt;&lt;/Image&gt; &lt;!--Source=&quot;{local:EmbeddedImage ResourceId=FirstProj.Image.background.jpg}&quot;--&gt;&#10;        &lt;ActivityIndicator Color=&quot;White&quot; IsRunning=&quot;{Binding Source={x:Reference image},Path=IsLoading}&quot; &#10;                           AbsoluteLayout.LayoutBounds=&quot;0.5, 0.05, 100, 100&quot; &#10;                           AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&lt;/ActivityIndicator&gt;&#10;        &#10;        &lt;!--&lt;Button x:Name=&quot;Prev&quot; Clicked=&quot;Previous_OnClicked&quot; &#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 100, 100&quot; &#10;                AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&#10;            &lt;Button.Image&gt;&#10;                &lt;OnPlatform x:TypeArguments=&quot;FileImageSource&quot; Android=&quot;left&quot; iOS=&quot;left.png&quot;&gt;&lt;/OnPlatform&gt;&#10;            &lt;/Button.Image&gt;&#10;            &#10;        &lt;/Button&gt;--&gt;&#10;        &#10;        &lt;Button Image=&quot;left&quot; x:Name=&quot;Previous&quot; Clicked=&quot;Previous_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;        &lt;Button Image=&quot;right.png&quot; x:Name=&quot;Next&quot; Clicked=&quot;Next_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.95, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;&#10;    &lt;/AbsoluteLayout&gt; &lt;StackLayout VerticalOptions=&quot;EndAndExpand&quot; HorizontalOptions=&quot;CenterAndExpand&quot;&gt;&#10;            &lt;Button x:Name=&quot;NextPage&quot; Text=&quot;ListPage&quot; Clicked=&quot;NextPage_Clicked&quot;&gt;&lt;/Button&gt;&#10;        &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="546:1946" ph="&lt;&lt;Image x:Name=&quot;image&quot; Aspect=&quot;AspectFill&quot;&#10;               AbsoluteLayout.LayoutBounds=&quot;0,0,1,1&quot; &#10;               AbsoluteLayout.LayoutFlags=&quot;All&quot;&gt;&lt;/Image&gt; &lt;ActivityIndicator Color=&quot;White&quot; IsRunning=&quot;{Binding Source={x:Reference image},Path=IsLoading}&quot; &#10;                           AbsoluteLayout.LayoutBounds=&quot;0.5, 0.05, 100, 100&quot; &#10;                           AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot;&gt;&lt;/ActivityIndicator&gt; &lt;Button Image=&quot;left&quot; x:Name=&quot;Previous&quot; Clicked=&quot;Previous_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.05, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt; &lt;Button Image=&quot;right.png&quot; x:Name=&quot;Next&quot; Clicked=&quot;Next_OnClicked&quot;&#10;                AbsoluteLayout.LayoutBounds=&quot;0.95, 0.05, 50, 50&quot; AbsoluteLayout.LayoutFlags=&quot;PositionProportional&quot; &gt;&lt;/Button&gt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="597:749" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="838:1111" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1129:1514" ph="&lt;!--...--&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1532:1725" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1734:1924" ph="&lt;.../&gt;" />
+            <marker date="1527674906042" expanded="true" signature="1955:2149" ph="&lt;&lt;Button x:Name=&quot;NextPage&quot; Text=&quot;ListPage&quot; Clicked=&quot;NextPage_Clicked&quot;&gt;&lt;/Button&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/MainPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525346215289" expanded="true" signature="40:519" ph="&lt;&lt;Button HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; Text=&quot;Click Me&quot; Clicked=&quot;Handle_Clicked&quot;&gt;&lt;/Button&gt;.../&gt;" />
+            <marker date="1525346215289" expanded="true" signature="263:388" ph="&lt;!--...--&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj.Android/MainActivity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="52" selection-start-line="20" selection-start-column="11" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <marker date="1527767902172" expanded="false" signature="6:167" ph="..." />
+            <marker date="1527767902172" expanded="true" signature="194:908" ph="{...}" />
+            <marker date="1527767902172" expanded="true" signature="477:906" ph="{...}" />
+            <marker date="1527767902172" expanded="true" signature="539:900" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1527766761683" expanded="false" signature="6:107" ph="..." />
+            <marker date="1527766761683" expanded="true" signature="608:672" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="608:917" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="608:919" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="710:752" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="790:832" ph="{...}" />
+            <marker date="1527766761683" expanded="true" signature="871:914" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProj/FirstProj/InstaPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <marker date="1527760555204" expanded="true" signature="40:446" ph="&lt;&lt;local:ActivityFeedPage Title=&quot;Activities&quot; Icon=&quot;heart.png&quot; Padding=&quot;20&quot; /&gt; &lt;local:MyProfilePage Title=&quot;Profile&quot; Icon=&quot;user.png&quot;  Padding=&quot;20&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

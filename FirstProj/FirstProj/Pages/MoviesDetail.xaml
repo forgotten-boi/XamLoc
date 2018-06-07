@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstProj.MoviesDetail">
+    <ContentPage.Content>
+        <RelativeLayout>
+            <Image x:Name="poster" Source="{Binding Poster}" Aspect="AspectFill"
+                   RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width,Factor=1}"
+                   RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height,Factor=0.5}">
+                
+            </Image>
+            <StackLayout Padding="20" RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToView, ElementName=poster, Property=Height,Factor=1}">
+                <Label Text="{Binding Title}" FontSize="Large" />
+                <Label Text="{Binding ReleaseYear}" FontSize="Medium" TextColor="Gray" />
+                <Label Text="{Binding Summary}" />
+            </StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -9,7 +9,7 @@
 		<ListView x:Name="recipesListView">
 			<ListView.ItemTemplate>
 				<DataTemplate>
-					<TextCell Text="{Binding Name}" />
+					<TextCell Text="{Binding Name, Mode=TwoWay}" />
 				</DataTemplate>
 			</ListView.ItemTemplate>
 		</ListView>

@@ -50,6 +50,7 @@ D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\mscorlib.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\SQLite-net.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.Core.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.pdb
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.Net.Http.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.Xml.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.Xml.Linq.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.Data.pdb
@@ -58,7 +59,6 @@ D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.Transact
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.IO.Compression.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.ComponentModel.Composition.pdb
-D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.Net.Http.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.Runtime.Serialization.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.ServiceModel.Internals.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\System.Web.Services.pdb
@@ -70,6 +70,7 @@ D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\mscorli
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\SQLite-net.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.Core.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.pdb
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.Net.Http.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.Xml.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.Data.pdb
@@ -78,7 +79,6 @@ D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.IO.Compression.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
-D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.Net.Http.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\System.Web.Services.pdb

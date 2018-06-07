@@ -41,7 +41,7 @@ namespace FirstProj
         private void ListPage_Clicked(object sender, EventArgs e)
         {
             //Navigation.PushAsync(new ListPage());
-            Navigation.PushAsync(new ListApi());
+            Navigation.PushAsync(new MainPage());
         }
 
         private void MainPage_Clicked(object sender, EventArgs e)

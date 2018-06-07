@@ -1,6 +1,7 @@
 ﻿using FirstProj;
 using SQLite;
 using System;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using Xamarin.Forms;
 
@@ -10,7 +11,8 @@ namespace FirstProj
 	{
         private SQLiteAsyncConnection _connection;
         private ObservableCollection<Recipe> _recipes;
-		public MainPage()
+       
+        public MainPage()
 		{
 			InitializeComponent();
             _connection = DependencyService.Get<ISQLiteDb>().GetConnection();
@@ -35,18 +37,24 @@ namespace FirstProj
 
 		async void OnUpdate(object sender, System.EventArgs e)
 		{
-            var recipie = _recipes[0];
-            recipie.Name += " Updated";
-            await _connection.UpdateAsync(recipie);
-            //_recipes[0] = recipie;
+            if (_recipes?.Count > 0)
+            {
+                var recipie = _recipes[0];
+                recipie.Name += " Updated";
+                await _connection.UpdateAsync(recipie);
+                recipesListView.ItemsSource = _recipes;
+                //_recipes[0] = recipie;
+            }
+        }
 
-		}
-
-		async void OnDelete(object sender, System.EventArgs e)
-		{
-            var recipie = _recipes[0];
-            await _connection.DeleteAsync(recipie);
-            _recipes.Remove(recipie);
-		}
+        async void OnDelete(object sender, System.EventArgs e)
+        {
+            if (_recipes?.Count > 0)
+            {
+                var recipie = _recipes[0];
+                await _connection.DeleteAsync(recipie);
+                _recipes.Remove(recipie);
+            }
+        }
 	}
 }

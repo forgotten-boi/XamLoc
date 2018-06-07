@@ -41,8 +41,37 @@
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\MainPage.xaml</FilePath>
-      <Hash>4B-E5-3B-D4-C2-36-B1-19-EE-FE-80-0B-E2-C0-50-A1</Hash>
+      <Hash>49-40-5F-DF-B1-13-F3-19-E9-2A-02-98-09-42-09-74</Hash>
       <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\Movies.xaml</FilePath>
+      <Hash>7F-9E-8E-CA-53-F6-37-9B-3E-EE-4D-DD-53-5C-68-09</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\MoviesDetail.xaml</FilePath>
+      <Hash>A3-56-73-DC-91-D5-BE-6E-A3-D5-08-07-FB-57-7E-16</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\MoviesPage.xaml</FilePath>
+      <Hash>0F-D8-67-72-67-E8-F8-DE-2E-9D-BB-44-BE-29-A0-EB</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\MoviesPageDetail.xaml</FilePath>
+      <Hash>CF-2B-38-38-46-6D-3F-91-4F-22-DC-4C-A5-CC-B3-77</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\MoviesPageMaster.xaml</FilePath>
+      <Hash>C3-48-50-D7-7A-6F-DD-D6-DD-0B-6B-13-64-E1-02-D9</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\Pages\MyProfilePage.xaml</FilePath>
