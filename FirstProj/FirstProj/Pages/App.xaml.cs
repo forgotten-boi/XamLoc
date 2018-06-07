@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FirstProj.Pages;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,9 +14,10 @@ namespace FirstProj
 		public App ()
 		{
 			InitializeComponent();
-            
 
-            MainPage = new NavigationPage(new FirstProj.GreetPage());
+
+            //MainPage = new NavigationPage(new FirstProj.GreetPage());
+            MainPage = new Location();
 
             //MainPage.BackgroundColor = Color.Red;
             switch (Device.RuntimePlatform)

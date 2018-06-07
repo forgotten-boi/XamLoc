@@ -35,3 +35,6 @@ Xamarin.Forms.Xaml
 netstandard
 System.ComponentModel
 System.Reflection.Extensions
+Plugin.CurrentActivity
+Plugin.Geolocator
+Plugin.Permissions

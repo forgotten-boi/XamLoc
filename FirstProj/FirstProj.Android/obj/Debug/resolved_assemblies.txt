@@ -7,6 +7,9 @@ D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\Mono.Android.dll
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\mscorlib.dll
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\Newtonsoft.Json.dll
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\Plugin.CurrentActivity.dll
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\Plugin.Geolocator.dll
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\Plugin.Permissions.dll
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\SQLite-net.dll
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\SQLitePCLRaw.batteries_v2.dll

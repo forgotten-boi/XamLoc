@@ -1,7 +1,5 @@
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\FirstProj.Android.dll
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\FirstProj.Android.pdb
-D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\com.companyname.FirstProj.apk
-D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\com.companyname.FirstProj-Signed.apk
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\FirstProj.dll
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\FirstProj.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\FirstProj.Android.csprojAssemblyReference.cache
@@ -9,7 +7,6 @@ D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\FirstProj.Andro
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\FirstProj.Android.csproj.CopyComplete
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\FirstProj.Android.dll
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\FirstProj.Android.pdb
-D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\bin\com.companyname.FirstProj.apk
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\res\drawable\.ds_store
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\res\drawable\heart
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\res\drawable-hdpi\.ds_store
@@ -121,8 +118,10 @@ D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\System.Web.Services.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\assets\System.Xml.pdb
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\com.nish.FirstProj.apk
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\com.nish.FirstProj-Signed.apk
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\android\bin\com.nish.FirstProj.apk
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\bin\Debug\FirstProj.Android.dll
-D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\FirstProj.pdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\FirstProj.Android.dll.mdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj.Android\obj\Debug\linksrc\ImageCircle.Forms.Plugin.Android.dll.mdb

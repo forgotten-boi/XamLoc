@@ -24,3 +24,4 @@ D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\obj\Debug\netstandard2.0\FirstPro
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\obj\Debug\netstandard2.0\FirstProj.Pages.Movies.xaml.g.cs
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\obj\Debug\netstandard2.0\FirstProj.Pages.MoviesDetail.xaml.g.cs
 D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\obj\Debug\netstandard2.0\FirstProj.csprojAssemblyReference.cache
+D:\Javra\Xamarin\FirstProj\FirstProj\FirstProj\obj\Debug\netstandard2.0\FirstProj.Pages.Location.xaml.g.cs
