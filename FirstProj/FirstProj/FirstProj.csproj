@@ -4,6 +4,8 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>FirstProj.pfx</AssemblyOriginatorKeyFile>
     <DelaySign>false</DelaySign>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
   <ItemGroup>
     <Compile Remove="Helper\IReverseGeoCode.cs" />
