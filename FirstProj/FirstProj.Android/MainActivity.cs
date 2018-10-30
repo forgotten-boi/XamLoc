@@ -7,6 +7,10 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+
 
 namespace FirstProj.Droid
 {
@@ -24,6 +28,10 @@ namespace FirstProj.Droid
 
 
             base.OnCreate(bundle);
+
+            AppCenter.Start("918db699-2321-4633-8493-0cdcd0e6c3ab",
+                   typeof(Analytics), typeof(Crashes));
+            
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
