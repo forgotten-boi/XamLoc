@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>FirstProj.snk</AssemblyOriginatorKeyFile>
     <DelaySign>false</DelaySign>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
@@ -13,6 +13,7 @@
     <Compile Remove="Models\FileSystem.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Remove="FirstProj.snk" />
     <None Remove="Image\background.jpg" />
   </ItemGroup>
   <ItemGroup>
