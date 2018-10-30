@@ -22,6 +22,7 @@
     <AndroidSigningKeyStore>C:\Users\pjha.JAVRA\AppData\Local\Xamarin\Mono for Android\debug.keystore</AndroidSigningKeyStore>
     <AndroidSigningStorePass>password</AndroidSigningStorePass>
     <AndroidSigningKeyAlias>alias</AndroidSigningKeyAlias>
+    <AndroidSigningKeyPass>password</AndroidSigningKeyPass>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
