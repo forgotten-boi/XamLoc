@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Xamarin.Essentials;
+using Plugin.FilePicker;
 
 namespace FirstProj.Pages
 {
@@ -28,43 +30,73 @@ namespace FirstProj.Pages
 			InitializeComponent ();
 		}
 
-        async void GetLocation_Clicked(object sender, System.EventArgs e)
+        async void FilePicker_Clicked(object sender, System.EventArgs e)
         {
+            var status = await CrossPermissions.Current.CheckPermissionStatusAsync(Permission.Storage);
+            if (status != PermissionStatus.Granted)
+            {
+                var result = await Plugin.Permissions.CrossPermissions.Current.RequestPermissionsAsync(Permission.Storage);
+
+                if (result.ContainsKey(Permission.Storage))
+                {
+                    status = result[Permission.Storage];
+                }
+            }
+            if (status == PermissionStatus.Granted)
+            {
+
+                try
+                {
+
+
+                    var fileData = await CrossFilePicker.Current.PickFile();
+                    if (fileData == null)
+                        return; // user canceled file picking
+
+                    string fileName = fileData.FileName;
+                    string contents = System.Text.Encoding.UTF8.GetString(fileData.DataArray, 0, -1);
+
+                    //System.Console.WriteLine("File name chosen: " + fileName);
+                    //System.Console.WriteLine("File data: " + contents);
+                }
+                catch (Exception ex)
+                {
+                    //System.Console.WriteLine("Exception choosing file: " + ex.ToString());
+                }
+            }
+        }
+            async void GetLocation_Clicked(object sender, System.EventArgs e)
+            {
+           
+          
+             var   _connection = DependencyService.Get<ISQLiteDb>().GetConnection();
+
             var status = await HandleLocation();
             if (status == PermissionStatus.Granted)
             {
 
+                
                 var locator = CrossGeolocator.Current;
                 if (!locator.IsGeolocationEnabled)
                 {
-                    //CrossPermissions.Current.OpenAppSettings();
-                    //StartRequestingLocationUpdates();
+                    //var isLocationEnabled =  CrossPermissions.Current.OpenAppSettings();
+                    DependencyService.Get<ILocSettings>().OpenSettings();
+                    return;
+                 
                 }
-                var position = await locator.GetPositionAsync(TimeSpan.FromSeconds(10));
-                LocationInfo.Latitude = Math.Round(position.Latitude, 5).ToString();
-                LocationInfo.Longitude = Math.Round(position.Longitude, 5).ToString();
+                if (locator.IsGeolocationEnabled)
+                {
+                    var position = await locator.GetPositionAsync(TimeSpan.FromSeconds(10));
+                    LocationInfo.Latitude = Math.Round(position.Latitude, 5).ToString();
+                    LocationInfo.Longitude = Math.Round(position.Longitude, 5).ToString();
+                    await DisplayAlert("Location Info","Your current latitude is " + LocationInfo.Latitude + " and Longitude is " + LocationInfo.Longitude,"Finally").ConfigureAwait(false);
+                
+                
+                }
+            
                 
             }
-            //Task.Run(async () =>
-            //{
-            //    try
-            //    {
-            //        var locator = CrossGeolocator.Current;
-            //        locator.DesiredAccuracy = 10000;
-            //        var position = await locator.GetPositionAsync(new TimeSpan(0, 0, 5));
-            //        var currentLat = position.Latitude;
-            //        var currentLong = position.Longitude;
-            //        var address = await DependencyService.Get<Helper.IReverseGeoCode>().ReverseLocationAsync(currentLat, currentLong);
-            //        Xamarin.Forms.Device.BeginInvokeOnMainThread(() =>
-            //        {
-            //            lblLocation.Text = address.City;
-            //        });
-            //    }
-            //    catch (Exception ex)
-            //    {
-            //        System.Diagnostics.Debug.WriteLine(ex.Message);
-            //    }
-            //});
+       
         }
 
         public async Task<PermissionStatus> HandleLocation()
@@ -74,19 +106,35 @@ namespace FirstProj.Pages
                 var status = await CrossPermissions.Current.CheckPermissionStatusAsync(Permission.Location);
                 if (status != PermissionStatus.Granted)
                 {
-                    if (await CrossPermissions.Current.ShouldShowRequestPermissionRationaleAsync(Permission.Location))
-                    {
-                        await DisplayAlert("Need location", "Please enable location permission", "OK");
-                    }
+                
+                    //if (await CrossPermissions.Current.ShouldShowRequestPermissionRationaleAsync(Permission.Location))
+                    //{
+                       var allowLocation = await DisplayAlert("Need location", "Please enable location permission", "Accept", "Cancel").ConfigureAwait(false);
+                    //}
+                    if(allowLocation)
+                    { 
+                        Dictionary<Permission, PermissionStatus> results;
+                        try
+                        {
+                           var requestedPermissions = await CrossPermissions.Current.ShouldShowRequestPermissionRationaleAsync(Permission.Location);
+                           results = CrossPermissions.Current.RequestPermissionsAsync(Permission.Location).Result;
 
-                    var results = await CrossPermissions.Current.RequestPermissionsAsync(Permission.Location);
-                    //Best practice to always check that the key exists
-                    if (results.ContainsKey(Permission.Location))
-                        status = results[Permission.Location];
-                    else
-                    {
-                        await DisplayAlert("Need location", "Please Authorize for location", "OK");
-                        CrossPermissions.Current.OpenAppSettings();
+
+                        }
+                        catch (Exception ex)
+                        {
+
+                            throw ex;
+                        }
+
+                        //Best practice to always check that the key exists
+                        if (results.ContainsKey(Permission.Location))
+                            status = results[Permission.Location];
+                        else
+                        {
+                             await DisplayAlert("Need location", "Please Authorize for location", "OK");
+                            CrossPermissions.Current.OpenAppSettings();
+                        }
                     }
                 }
 
@@ -146,7 +194,8 @@ namespace FirstProj.Pages
 
         }
 
-
+  
+  
 
     }
 }

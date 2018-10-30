@@ -5,6 +5,8 @@ namespace FirstProj
     public interface ISQLiteDb
     {
         SQLiteAsyncConnection GetConnection();
+
+
     }
 }
 

@@ -2,5 +2,18 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ShowAllFiles>true</ShowAllFiles>
+    <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
+    <RevDeBugCompilerPath>c:\users\pjha.javra\appdata\local\microsoft\visualstudio\15.0_01277c9f\extensions\ppuapmvp.niu\tmcc\</RevDeBugCompilerPath>
+    <CustomAfterMicrosoftCommonTargets>c:\users\pjha.javra\appdata\local\microsoft\visualstudio\15.0_01277c9f\extensions\ppuapmvp.niu\tmcc\RevDeBug.ImportAfter.targets</CustomAfterMicrosoftCommonTargets>
+    <RevDeBugActive>True</RevDeBugActive>
+    <SaveMetadataAsync>true</SaveMetadataAsync>
+    <RevDeBugDisableNuget>true</RevDeBugDisableNuget>
+    <RevDeBugMetadataPath>C:\Users\pjha.JAVRA\Documents\RevDeBug\FirstProj\Metadata\\</RevDeBugMetadataPath>
+    <UseRevDeBugOnThisProject>false</UseRevDeBugOnThisProject>
+    <RevDeBugStateStorageType>CrashRecorder</RevDeBugStateStorageType>
+    <isNetCore>true</isNetCore>
+    <SendToServer>true</SendToServer>
+    <RecorderAddress>127.0.0.1</RecorderAddress>
+    <RecorderTCPPort>42744</RecorderTCPPort>
   </PropertyGroup>
 </Project>

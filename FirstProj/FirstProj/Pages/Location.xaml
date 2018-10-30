@@ -12,7 +12,8 @@
                     </OnPlatform.Platforms>-->
                 </OnPlatform>
             </StackLayout.Padding>
-            <Button Clicked="GetLocation_Clicked" Text="Konum Al">
+            <Button Clicked="GetLocation_Clicked" Text="Konum Al"></Button>
+            <Button Clicked="FilePicker_Clicked" Text="Pick A File">
             </Button>
             <Label x:Name="lblLocation">
             </Label>
