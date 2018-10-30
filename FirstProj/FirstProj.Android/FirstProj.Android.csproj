@@ -19,7 +19,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <AndroidKeyStore>true</AndroidKeyStore>
-    <AndroidSigningKeyStore>C:\Users\pjha.JAVRA\AppData\Local\Xamarin\Mono for Android\debug.keystore</AndroidSigningKeyStore>
+    <AndroidSigningKeyStore>C:\Users\pjha.JAVRA\AppData\Local\Xamarin\Mono for Android\release.keystore</AndroidSigningKeyStore>
     <AndroidSigningStorePass>password</AndroidSigningStorePass>
     <AndroidSigningKeyAlias>alias</AndroidSigningKeyAlias>
     <AndroidSigningKeyPass>password</AndroidSigningKeyPass>
