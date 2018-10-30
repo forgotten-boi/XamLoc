@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <SignAssembly>true</SignAssembly>
-    <AssemblyOriginatorKeyFile>FirstProj.pfx</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>FirstProj.snk</AssemblyOriginatorKeyFile>
     <DelaySign>false</DelaySign>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
